@@ -18,6 +18,7 @@ To deploy this project: primero clona el repo =D
 
 ```bash
   docker compose up -d
+  and run composer install to install dependencies from /var/www/symfony folder.
 ```
 
 
