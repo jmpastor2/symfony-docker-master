@@ -77,8 +77,5 @@ Para la parte visual se puede instalar el uso de plantillas de twig para general
 Realmente solo he implementado funcionalidades y estructura pero se puede mejorar mucho más y desplegar más test, y llamadas de API. 
 ## Datos Utilizados
 
-Me he basado en este compañero: 
-https://github.com/ger86
-
 he utlizado distintas web de información.
 
